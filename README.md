@@ -1,2 +1,2 @@
 # ya-awesome-nestjs
-Homemade NestJS awesome packages
+Yet Another Homemade NestJS awesome packages
